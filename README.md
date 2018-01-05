@@ -1,4 +1,4 @@
-# iframe scanner
+# Iframe Scanner
 This script scans web pages to see if they include iframes. 
 
 The `sites` subdirectory contains lists of URLs. Each file there represents a site to be scanned, and each line in the file contains a URL.
